@@ -32,7 +32,7 @@ This Python script is designed to streamline the process of extracting and conso
 #### **Example:**
 
 ```python
-python extract_and_consolidate.py
+python main.py
 ```
 
 **Note:** Adjust the column indices or names as per your file structure for accurate extraction.
