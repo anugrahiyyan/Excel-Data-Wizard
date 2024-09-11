@@ -1,4 +1,4 @@
-### **Data Extraction and Consolidation Tool**
+### **Excel Data Wizard**
 
 This Python script is designed to streamline the process of extracting and consolidating email and phone number data from various file formats, including Excel and CSV. It allows users to handle multiple files or an entire folder, with flexibility to accommodate different column structures.
 
